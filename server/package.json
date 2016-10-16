@@ -1,0 +1,16 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-zhihu-daily": "^0.1.3",
+    "request": "^2.75.0",
+    "zhihu": "^1.1.2"
+  }
+}
